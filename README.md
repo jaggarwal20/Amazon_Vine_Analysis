@@ -23,22 +23,22 @@ This analysis uses data from the Vine program which is part of Amazon. This prog
 <a name="Results"></a>
 ## Results
 
-The following results are for the gift card reviews through Amazon Vine. 
+The following results are for the toy reviews through Amazon Vine. 
 
-* The total number of Vine reviews is 0 and non-Vine reviews is 355. 
-* The total number of 5 star reviews for Vine reviews is 0 and for non-Vine reviews is 90
-* The percentage of 5 star review for Vine reviews is 0% and for non-Vine reviews is 25%
+* The total number of Vine reviews is 1266 and non-Vine reviews is 62,028. 
+* The total number of 5 star reviews for Vine reviews is 432 and for non-Vine reviews is 29982.
+* The percentage of 5 star review for Vine reviews is 34% and for non-Vine reviews is 48%
 
 Paid Vine Reviews:                                   
 
-![alt text](Resources/Paid_Review.png)       
+![alt text](Paid_Reviews.png)       
 
 Unpaid Review:
 
-![alt text](Resources/Unpaid_Reviews.png)
+![alt text](Unpaid_Reviews.png)
  
  
 <a name="Summary"></a>
 ## Summary
 
-In the gift card dataset there is no positive biasness, because there are no reviews from paid Vine reviewers. 
+In the toys dataset there is not a positive biasness, because there are many more non-Vine reviews. The number of 5 star reviews for toys from vine reviewers is signficantly less than non-Vine reviewers. Out of the total non-Vine reviewers roughly half are 5 star-reviews. 
